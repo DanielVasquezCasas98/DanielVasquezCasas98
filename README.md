@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey there. 👋
 
+- #### 👨‍💼 Software Engineer 
+- #### ⌨️🖥️ Currently learning: Node.js 
+- #### 🏫 Student at Universidad Panamericana 
+- #### 🇲🇽 Guadalajara, Jalisco, México 
+- #### 🎲 Future game developer 
+
+ 
 <!--
 **DanielVasquezCasas98/DanielVasquezCasas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
