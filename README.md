@@ -1,8 +1,8 @@
 ### Hey there. 👋
 
 - #### 👨‍💼 Software Engineer 
-- #### ⌨️🖥️ Currently learning: Node.js 
 - #### 🏫 Student at Universidad Panamericana 
+- #### ⌨️🖥️ Currently learning: Javascript 
 - #### 🇲🇽 Guadalajara, Jalisco, México 
 - #### 🎲 Future game developer 
 
